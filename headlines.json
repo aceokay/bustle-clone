@@ -1,0 +1,18 @@
+{ "headlines": [{
+    "lead": "Where have all the eggs gone?",
+    "pictureURL": "http://www.liquidmetal.biz/wp-content/uploads/2014/04/Russian-Easter-Egg.jpg",
+    "bodyText": "The Russians stole them."
+  }, {
+    "lead": "Leather jackets are back?",
+    "pictureURL": "http://www4.pictures.stylebistro.com/gi/Slash+Outerwear+Leather+Jacket+c2BIaXektpMl.jpg",
+    "bodyText": "Nope! Still not back."
+  }, {
+    "lead": "Furbies are attacking the White House",
+    "pictureURL": "https://janeaustenrunsmylife.files.wordpress.com/2014/04/shjtdhk.jpg?w=474",
+    "bodyText": "The conspiracy theorist were right all along!"
+  }, {
+    "lead": "LA Fitness confirmd as ground-zero of gross: says source",
+    "pictureURL": "http://s3-media3.fl.yelpcdn.com/bphoto/jASgZkwwl8CUxNTgh16EHg/168s.jpg",
+    "bodyText": "Black mold and soap made from hair. Nothing works!"
+  }]
+}
