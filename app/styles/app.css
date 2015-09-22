@@ -1,0 +1,29 @@
+img{
+  width: auto;
+  max-width: 250px;
+  height: auto;
+  max-height: 200px;
+}
+
+/*.img-holder {
+    width:250px;
+    height:250px;
+    position:relative;
+    overflow:hidden;
+    }*/
+/*
+.img-holder img {
+    position:absolute; display:block;
+    top:5;
+    left:5;
+    }*/
+
+
+.img-holder {
+    width:250px;
+    max-width: 450px;
+    height:250px;
+    max-height: 450px;
+    position:relative;
+    overflow:hidden;
+    }

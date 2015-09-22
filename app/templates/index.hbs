@@ -1,7 +1,14 @@
 {{outlet}}
 
-<ul>
-  {{#each model as |headline|}}
-     <li>{{headline.lead}}</li>
-  {{/each}}
-</ul>
+<div class="container">
+  <div class="row">
+      {{#each model as |headline|}}
+      <div class="col-md-3 col-sm-4 col-xs-6 img-holder">
+        <div class="thumbnail">
+          <p>{{headline.lead}}</p>
+          <img src={{headline.pictureURL}}>
+        </div>
+      </div>
+    {{/each}}
+  </div>
+</div>
